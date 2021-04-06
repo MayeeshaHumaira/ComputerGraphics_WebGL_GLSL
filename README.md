@@ -1,5 +1,5 @@
 # ComputerGraphics_WebGL_GLSL
-4th year 2nd semester Computer Graphics code using WebGL and GLSL control statement
+4th year 2nd semester Lab Computer Graphics code using WebGL and GLSL control statement
 
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
