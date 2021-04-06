@@ -65,6 +65,8 @@ It is a crate (box) with a lid. Both the crate and lid have the same coordinates
 <img src="boxLid_Open_Close/images/pic4.PNG" width="180" height="150">
 <img src="boxLid_Open_Close/images/pic5.PNG" width="180" height="150">
 
+view output in youtube https://youtu.be/SQ4pp9qHakQ
+
 
 ### Houses from outside with Lighting, Texture and Camera Movement
 
